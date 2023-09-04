@@ -1,0 +1,154 @@
+                                                                                                             body {
+                                                                                                                 font-family: Arial, sans-serif;
+                                                                                                                 margin: 0;
+                                                                                                                 padding: 0;
+                                                                                                                 font-family: 'Quicksand', sans-serif;
+                                                                                                                 
+
+                                                                                                             }
+                                                                                                             
+                                                                                                             header {
+                                                                                                                 background-color: #ebda7d;
+                                                                                                                 padding: 8px;
+                                                                                                                 color: #fff;
+                                                                                                                 text-align: justify;
+                                                                                                                 display: flex;
+                                                                                                                 align-items: center;
+                                                                                                                 justify-content: space-between;
+                                                                                                             }
+                                                                                                             
+                                                                                                             nav ul {
+                                                                                                                 list-style: none;
+                                                                                                                 padding: 0;
+                                                                                                                 display: flex;
+                                                                                                                 justify-content: flex-end;
+                                                                                                             }
+                                                                                                             
+                                                                                                             nav ul li {
+                                                                                                                 margin-left: 20px;
+                                                                                                             }
+                                                                                                             
+                                                                                                             nav ul li a {
+                                                                                                                 color: #fff;
+                                                                                                                 text-decoration: none;
+                                                                                                             }
+                                                                                                             
+                                                                                                             .image-blocks {
+                                                                                                                 display: flex;
+                                                                                                                 justify-content: space-between;
+                                                                                                                 padding: 20px;
+                                                                                                                 border-radius: 5%;
+                                                                                                               
+                                                                                                             }
+                                                                                                             
+                                                                                                             .image {
+                                                                                                                 flex-basis: calc(33.33% - 20px);
+                                                                                                                 text-align: center;
+                                                                                                                 border-radius: 5%;
+                                                                                                               
+                                                                                                             }
+                                                                                                             
+                                                                                                             .image img {
+                                                                                                                 max-width: 100%;
+                                                                                                                 border-radius: 5%;
+                                                                                                               
+                                                                                                             }
+                                                                                                             
+                                                                                                             .image p {
+                                                                                                                 margin-top: (10px 20px);
+                                                                                                               
+                                                                                                             }
+                                                                                                             
+                                                                                                             h2 {
+                                                                                                                 color: #B8860B;
+                                                                                                                 text-align: center;
+                                                                                                             }
+                                                                                                             
+                                                                                                             p {
+                                                                                                                 color: #B8860B;
+                                                                                                                 text-align: center;
+                                                                                                             }
+                                                                                                             
+                                                                                                             
+                                                                                                             header img {
+                                                                                                                 height: 90px;
+                                                                                                                 margin-right: 100px;
+                                                                                                             }
+                                                                                                             
+                                                                                                             header h1 {
+                                                                                                                 text-align: center;
+                                                                                                             }
+                                                                                                             
+                                                                                                             iframe {
+                                                                                                                 text-align: center;
+                                                                                                             }
+                                                                                                             #increase-font-size {
+
+                                                                                                                font-size: 1em;
+                                                                                                                
+                                                                                                                }
+                                                                                                                
+                                                                                                                #decrease-font-size { font-size: 1em;
+                                                                                                                
+                                                                                                                }
+                                                                                                                
+                                                                                                                #content { font-size: 1em;
+                                                                                                                
+                                                                                                                }
+                                                                                                                button{
+                                                                                                                    color: #B8860B;
+                                                                                                                    border-radius: 5%;
+                                                                                                                    border-bottom: #ebda7d;
+                                                                                                                    border-left: #ebda7d;
+                                                                                                                    border-color: #ebda7d;
+                                                                                                                    border-right: #B8860B;
+                                                                                                                    
+                                                                                                                }
+                                                                                                                .texthome {
+                                                                                                                    color: #B8860B;
+                                                                                                                    padding: 10px;
+                                                                                                                    text-align:center;
+                                                                                                                    width: 700px;
+                                                                                                                    margin: 20px 340px;
+                                                                                                                    align-items: center;
+                                                                                                                    justify-content: center;
+                                                                                                                  }
+                                                                                                                  .container {
+                                                                                                                    max-width: 800px; 
+                                                                                                                    margin: 0 auto; 
+                                                                                                                    padding: 20px;
+                                                                                                                    background-color: #fff;
+                                                                                                                    border-radius: 10px;
+                                                                                                                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                                                                                                                    }
+                                                                                                                    video{
+                                                                                                                        width: 100%;
+                                                                                                                        }
+                                                                                                                        #caption-container {
+                                                                                                                            margin-top: 10px;
+                                                                                                                            }
+                                                                                                                        
+                                                                                                                        ::cue{
+                                                                                                                            background-color: rgba(0, 0, 0, 0.8); 
+                                                                                                                            color: white;
+                                                                                                                            padding: 5px;
+                                                                                                                            border-radius: 5px;
+                                                                                                                            font-size: 16px;
+                                                                                                                            }
+                                                                                                                    .map{
+                                                                                                                        max-width: 600px; 
+                                                                                                                    margin: 0 auto; 
+                                                                                                                    padding: 20px;
+                                                                                                                  
+                                                                                                                    border-radius: 10px;
+                                                                                                                  
+                                                                                                                   }
+.historia{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    width: 700px;
+    margin: 20px 6000px;
+    
+}
